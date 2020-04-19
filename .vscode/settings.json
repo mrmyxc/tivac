@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "pll.h": "c",
+        "ssi.h": "c",
+        "common.h": "c",
+        "tm4c_cmsis.h": "c",
+        "tm4c123gh6pm.h": "c",
+        "inttypes.h": "c",
+        "stdint.h": "c",
+        "*.h": "c",
+        "*.c": "c",
+        "array": "c",
+        "string": "c"
+    }
+}
